@@ -1,4 +1,6 @@
 # AntManabaApi-Document
+## 本家
+https://github.com/t4t5u0/ManabaCrawlerCloudFunctions
 ## BaseURL  
 https://fun-manaba-api.azurewebsites.net/
 ## 機能一覧
@@ -20,3 +22,4 @@ Azureのセキュリティの関係上、Curlを使った操作はできませ�
 このApiを使って被った全ての損害、不利益に対し、私は一切の責任を負いません。  
 もちろんパスワードを抜くようなコードは書いていませんが、なんらかのトラブルがあっても責任は一切負いません。  
 今の所、お叱りは受けてませんが、事務局に怒られようがどうなろうが、自分で責任を持つ（共犯になる）覚悟がある人だけ使ってください。
+ぞ
