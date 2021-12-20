@@ -1,5 +1,4 @@
 # AntManabaApi-Document
----
 ## BaseURL  
 https://fun-manaba-api.azurewebsites.net/
 ## 機能一覧
@@ -14,3 +13,5 @@ json={"userid":"hoge","password":"fuga"}
   返り値:{"status":"success"or"failed"}
 - /timetable
   返り値:{{"status":"success"or"failed"},{"timetable":{"Week of day":[Course]}}
+## 注意
+Azureのセキュリティの関係上、Curlを使った操作はできません。
